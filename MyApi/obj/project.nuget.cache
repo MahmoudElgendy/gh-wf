@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MI1kysmndA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MahmoudElgendi\\OneDrive - MiView Integrated Solutions, LLC\\Desktop\\workspace\\gh-wf\\MyApi\\MyApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MahmoudElgendi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\MahmoudElgendi\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
