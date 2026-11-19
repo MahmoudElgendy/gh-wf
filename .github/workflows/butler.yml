@@ -23,6 +23,7 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          cmd: chat
   review:
     if: contains(github.event.comment.body, '/review')
     runs-on: ubuntu-latest
